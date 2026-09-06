@@ -2,10 +2,11 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=CodedChapter&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Turning%20curiosity%20into%20code%2C%20one%20chapter%20at%20a%20time&descAlignY=58&descSize=16&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+CodedChapter+%F0%9F%91%8B;Python+Learner+%7C+CS50P+Student;Future+Software+Engineer+%F0%9F%9A%80;Documenting+my+journey+on+YouTube+%F0%9F%8E%AC;From+the+paradise+of+Kashmir+%F0%9F%8D%81" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+CodedChapter+%F0%9F%91%8B;CS50P+%26+CS50x+Graduate+%F0%9F%8E%93;Now+learning+DSA+%40+Apna+College;Future+Software+Engineer+%F0%9F%9A%80;Documenting+my+journey+on+YouTube+%F0%9F%8E%AC;From+the+paradise+of+Kashmir+%F0%9F%8D%81" alt="Typing SVG" />
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-codedchapter.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://codedchapter.vercel.app/)
 [![YouTube](https://img.shields.io/badge/YouTube-CodedChapter-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@CodedChapter)
 [![Gmail](https://img.shields.io/badge/Gmail-codedchapter1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codedchapter1@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/CodedChapter?style=for-the-badge&logo=github&logoColor=white&color=181717)](https://github.com/CodedChapter)
@@ -26,20 +27,20 @@
 class CodedChapter:
     def __init__(self):
         self.name      = "CodedChapter"
-        self.origin    = "Kashmir, India 🍁"
-        self.course    = "Harvard CS50P 🎓"
-        self.learning  = ["Python", "Linux", "Problem Solving"]
+        self.origin    = "Kashmir🍁"
+        self.website   = "https://codedchapter.vercel.app/"
+        self.completed = ["Harvard CS50P", "Harvard CS50x"]
+        self.learning  = ["Data Structures & Algorithms @ Apna College", "Linux"]
         self.goal      = "Become a Software Engineer 🚀"
-        self.creating  = "Python tutorials on YouTube 🎬"
-        self.status    = "Starting college soon 📚"
+        self.creating  = "Python & DSA tutorials on YouTube 🎬"
         self.motto     = "Chapter by chapter. Line by line. 💡"
 
     def current_focus(self):
         return {
-            "studying"  : "CS50P — Week 5: Functions",
+            "studying"  : "DSA  Apna College",
             "building"  : "YouTube channel @CodedChapter",
-            "improving" : "Python & Linux every single day",
-            "next"      : "College + first real Python project 🔥"
+            "improving" : "Problem solving, every single day",
+            "next"      : "College + first real software project 🔥"
         }
 
     def say_hi(self):
@@ -54,23 +55,38 @@ me.say_hi()
 
 ---
 
-## 🗺️ My Learning Journey
+## 📚 Courses & Certifications
 
-> *"Chapter by chapter, line by line."*
+<div align="center">
 
-### 📘 CS50P Progress
+<table>
+  <tr>
+    <th>Logo</th>
+    <th>Course</th>
+    <th>Provider</th>
+    <th>Status</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://www.google.com/s2/favicons?domain=cs50.harvard.edu&sz=64" width="24"/></td>
+    <td><b>CS50x</b> — Introduction to Computer Science</td>
+    <td>Harvard University (edX)</td>
+    <td><img src="https://img.shields.io/badge/Completed-2ea44f?style=flat-square"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://www.google.com/s2/favicons?domain=cs50.harvard.edu&sz=64" width="24"/></td>
+    <td><b>CS50P</b> — Introduction to Programming with Python</td>
+    <td>Harvard University (edX)</td>
+    <td><img src="https://img.shields.io/badge/Completed-2ea44f?style=flat-square"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://www.google.com/s2/favicons?domain=apnacollege.in&sz=64" width="24"/></td>
+    <td><b>DSA</b> — Data Structures & Algorithms</td>
+    <td>Apna College</td>
+    <td><img src="https://img.shields.io/badge/In%20Progress-dbab09?style=flat-square"/></td>
+  </tr>
+</table>
 
-| Topic | Status |
-|---|---|
-| 🔢 Variables & Data Types | ✅ Done |
-| 🔀 Conditions | ✅ Done |
-| 🔁 Loops | ✅ Done |
-| ⚠️ Exceptions | ✅ Done |
-| 📦 Functions | 🔄 In Progress... |
-| 🧪 Unit Testing | 🔒 Coming Soon |
-| 📁 File I/O | 🔒 Coming Soon |
-| 🌐 Libraries & APIs | 🔒 Coming Soon |
-| 🏁 Final Project | 🔒 Coming Soon |
+</div>
 
 ---
 
@@ -78,15 +94,7 @@ me.say_hi()
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-![CS50P](https://img.shields.io/badge/CS50P-Harvard-A51C30?style=for-the-badge&logoColor=white)
-![Terminal](https://img.shields.io/badge/Terminal-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,html,css,js,linux,git,github,vscode,vercel&theme=dark" />
 
 </div>
 
@@ -109,9 +117,9 @@ me.say_hi()
 
 ## 🎬 What I'm Doing on YouTube
 
-I document my **entire learning journey** on YouTube as **@CodedChapter** — from raw beginner mistakes to real breakthroughs. If you're learning Python too, let's figure it out together.
+I document my **entire learning journey** on YouTube as **@CodedChapter** — from raw beginner mistakes to real breakthroughs. If you're learning to code too, let's figure it out together.
 
-📌 **Current Series:** Harvard CS50P — Full Course Walkthrough  
+📌 **Current Series:** Data Structures & Algorithms (Apna College)
 🎯 **Goal:** Help other beginners not feel alone in the process
 
 [![YouTube Channel](https://img.shields.io/badge/Watch%20My%20Journey-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@CodedChapter)
@@ -122,7 +130,7 @@ I document my **entire learning journey** on YouTube as **@CodedChapter** — fr
 
 <div align="center">
 
-🍁 **Kashmir,** — the paradise on Earth  
+🍁 **Kashmir,**  the paradise on Earth
 *Where the mountains are tall and the ambitions are taller.*
 
 </div>
@@ -135,6 +143,7 @@ I document my **entire learning journey** on YouTube as **@CodedChapter** — fr
 
 I'm always open to connecting with fellow learners, developers, and anyone who loves tech!
 
+[![Portfolio](https://img.shields.io/badge/Visit%20My%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://codedchapter.vercel.app/)
 [![YouTube](https://img.shields.io/badge/YouTube-%40CodedChapter-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@CodedChapter)
 [![Email](https://img.shields.io/badge/Email-codedchapter1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codedchapter1@gmail.com)
 [![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodedChapter)
@@ -149,6 +158,6 @@ I'm always open to connecting with fellow learners, developers, and anyone who l
 
 *"The best time to start was yesterday. The second best time is now."* 🌱
 
-**⭐ Star my repos if you find them helpful — it motivates me to keep going!**
+**⭐ Star my repos if you find them helpful  it motivates me to keep going!**
 
 </div>
